@@ -1,0 +1,118 @@
+body {
+  font-family: 'Tahoma', 'Open Sans', sans-serif;
+   background:white;}
+.menu{background-color: papayawhip;
+overflow: auto;}
+  .menu ul{
+text-align:center;
+padding-top:20px;
+padding-bottom:20px;
+text-decoration:non; 
+}
+.menu li {
+display:inline-block;
+text-align:center; } 
+.menu li a{
+display:inline-block;
+height:auto;
+width:150px;
+color:black;
+padding:10px;
+margin:4px;
+text-align:center;
+font-size:18px;
+font-weight:bold;
+text-decoration:none;
+border-radius:4px;
+}
+ .menu li a {
+background-color:#FBBBB9;
+   }
+
+  }
+  .main {
+      overflow: auto;
+  text-align: center;
+  background-color: #e7d5d5;
+  padding-top: 20px;
+  padding-bottom: 20px;}
+   .main {
+      overflow: auto;
+  text-align: center;
+  background-color: #e7d5d5;
+  padding-top: 20px;
+  padding-bottom: 20px;}
+  .main h2 {
+  overflow: auto;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  background-color: #892758;
+  color: #020101;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 40px;}
+  
+  .photos {
+background-color:pink;
+text-align:center;
+overflow:auto
+padding-top:60px;
+padding-bottom:60px;}
+img {
+  width: 160px;
+  height: 160px;
+  object-position:right 6px;}
+  
+  
+
+  
+.photos img{
+      border-style:solid;
+      border-width:2px;
+      border-color:black;
+      border-radius:10px;
+      margin:2px;}
+      
+
+  
+  .footer {
+  overflow: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  background-color: #777777;}
+  
+  .footer ul {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-decoration: none;}
+  
+  .footer li {
+  display: inline-block;
+  text-align: center;}
+  
+  .footer li a {
+  display: inline-block;
+  height: auto;
+  width: auto;
+  color: #333333;
+  background-color: #f5f5f5;
+  padding: 10px;
+  margin: 4px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;}
+  
+  .footer li a:hover {
+  background-color: #d6d599;}
+  
+  .footer h2 {
+  color: #d6d599;
+  }
+  
+  .footer p {
+  color: #f5f5f5;}
